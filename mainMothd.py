@@ -8,14 +8,15 @@ import FCM as fcm
 
 if __name__ == '__main__':
     #fuzzy C Means的聚类个数
-    cate = 3
+    cate = 7
     #Fuzzy C Means 参数m
     m = 2
     #数据集分割率
     rate  = 0.6
     # 数据2维处理
     #filename = './Earthquakes/Earthquakes_TRAIN.txt'
-    filename = './BeetleFly/BeetleFly_TRAIN.txt'
+    filename = './Strawberry/Strawberry'
+    #filename = './Computers/Computers'
 
     f  = open('filename.txt','r')
     last_file = f.read()

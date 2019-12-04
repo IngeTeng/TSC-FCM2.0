@@ -1,1 +1,1 @@
-./BeetleFly/BeetleFly_TRAIN.txt
+./Strawberry/Strawberry
